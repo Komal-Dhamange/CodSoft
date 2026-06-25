@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Data%20Science-Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/Data%20Science-orange?style=for-the-badge&logo=scikitlearn" />
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CodSoft-Internship-purple?style=for-the-badge" />
 </p>
