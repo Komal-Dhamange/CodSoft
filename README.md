@@ -57,7 +57,7 @@ CodSoft/
 
 ---
 
-# 📊 Project 1: Titanic Survival Prediction
+# 📊 Task 1: Titanic Survival Prediction
 
 ## 🎯 Objective
 
@@ -112,7 +112,7 @@ Predict whether a passenger survived the Titanic disaster based on passenger inf
 
 ---
 
-# 🎬 Project 2: Movie Rating Prediction
+# 🎬 Task 2: Movie Rating Prediction
 
 ## 🎯 Objective
 
@@ -168,7 +168,7 @@ Predicted Rating : 6.02
 
 ---
 
-# 🌸 Project 3: Iris Flower Classification
+# 🌸 Task 3: Iris Flower Classification
 
 ## 🎯 Objective
 
